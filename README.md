@@ -1,6 +1,6 @@
 # Mohamed Arief — Portfolio Website 🚀
 
-🔗 **Live Portfolio:**(https://arief-1203.github.io/Arief-1203_Portfolio.github.io)
+🔗 **Live Portfolio:**(https://arief-1203.github.io/Arief-1203_Portfolio.github.io/)
 
 ## 👨‍💻 About
 This is my personal portfolio website showcasing my skills, projects, certifications, and experience in:
